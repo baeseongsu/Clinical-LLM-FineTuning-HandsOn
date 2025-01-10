@@ -1,26 +1,26 @@
-# KoSAIM2024-Clinical-LLM
+# Clinical-LLM-FineTuning-HandsOn
 
-This repository contains lecture materials on fine-tuning a clinical domain LLM for KoSAIM 2024.
+This repository contains **lecture materials** and **hands-on tutorials** on fine-tuning a clinical domain Large Language Model (LLM).
 
 ## Main Materials
-### 2024-08-10
-- [Lecture Slides](https://docs.google.com/presentation/d/1OKYCo2aSuOo7nkus6ly2rrECpG_5QkPC6Hg3d1ooz3A/edit?usp=sharing)
-- [Colab Link](https://colab.research.google.com/drive/1UGfib5xlepFu-b0bmwTLGvR07hvJKJS4?usp=sharing)
-### 2024-11-14
-- [Lecture Slides](https://docs.google.com/presentation/d/1Pw1h1F_4kYSF2GGkDhtPE-R29Cvycd5xs4koFec0bmQ/edit?usp=sharing)
-- [Colab Link](https://colab.research.google.com/drive/1_zMpUA2dHQu3eROEDdr4u5Vi5JQ9ZbA3?usp=sharing)
+- [2024-08-10] KoSAIM 2024 Summer School Hands-on Session III. Large Language Model [[Slides]](https://docs.google.com/presentation/d/1OKYCo2aSuOo7nkus6ly2rrECpG_5QkPC6Hg3d1ooz3A/edit?usp=sharing) [[Colab]](https://colab.research.google.com/drive/1UGfib5xlepFu-b0bmwTLGvR07hvJKJS4?usp=sharing)
+- [2024-11-14] KoSAIM 2024 개발자를 위한 의료 AI 심화교육 II [[Slides]](https://docs.google.com/presentation/d/1Pw1h1F_4kYSF2GGkDhtPE-R29Cvycd5xs4koFec0bmQ/edit?usp=sharing) [[Colab]](https://colab.research.google.com/drive/1_zMpUA2dHQu3eROEDdr4u5Vi5JQ9ZbA3?usp=sharing)
+- [2025-01-11] KSR 2025 AIMC 4기 [Slides] (TBA) [Colab] (TBA)
 
 ## Contents
 - How to build a clinical domain Large Language Model (LLM)?
-  - (Large) Language Model
+  - (Large) Language Model Basics
   - How to build a (Language) Langauge Model?
   - Building an instruction-following LLM in the clinical domain
-  - Asclepius (Gweon and Kim et al., ACL 2024 Findings)
+  - Introduction to Asclepius (Gweon and Kim et al., ACL 2024 Findings)
 - Hands-on Session: Fine-tuning a clinical domain LLM
   - Environment Setup & Colab Practice
   - LLM memory layout
-  - Parameter-Efficient Fine-Tuning (LoRA/QLoRA)
- 
+  - Parameter-Efficient Fine-Tuning: LoRA / QLoRA
+- Extended Topics (Optional)
+  - Prompt Engineering Techniques
+  - Evaluation Metrics for Clinical LLMs
+
 ## Useful Resources
 - [https://github.com/huggingface/transformers](https://github.com/huggingface/transformers)
 - [https://github.com/huggingface/trl](https://github.com/huggingface/trl)
@@ -52,3 +52,12 @@ This repository contains lecture materials on fine-tuning a clinical domain LLM 
 ## Contributors
 - Seongsu Bae (seongsu@kaist.ac.kr)
 - Sujeong Im (sujeongim@kaist.ac.kr)
+
+## License
+This repository is licensed under the **MIT License**. See the [LICENSE](https://github.com/baeseongsu/Clinical-LLM-FineTuning-HandsOn/blob/master/LICENSE) file for more details.
+
+## Disclaimer
+- All resources in this repository are provided for **research and educational purposes** only.  
+- No clinical or patient-identifiable data is included.  
+- Use responsibly and check relevant **privacy, security, and ethical guidelines** before applying in a real clinical setting.  
+- The contributors of this repository assume **no liability** for any clinical outcomes or misuse of the provided materials.
