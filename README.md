@@ -5,7 +5,7 @@ This repository contains **lecture materials** and **hands-on tutorials** on fin
 ## Main Materials
 - [2024-08-10] KoSAIM 2024 Summer School Hands-on Session III. Large Language Model [[Slides]](https://docs.google.com/presentation/d/1OKYCo2aSuOo7nkus6ly2rrECpG_5QkPC6Hg3d1ooz3A/edit?usp=sharing) [[Colab]](https://colab.research.google.com/drive/1UGfib5xlepFu-b0bmwTLGvR07hvJKJS4?usp=sharing)
 - [2024-11-14] KoSAIM 2024 개발자를 위한 의료 AI 심화교육 II [[Slides]](https://docs.google.com/presentation/d/1Pw1h1F_4kYSF2GGkDhtPE-R29Cvycd5xs4koFec0bmQ/edit?usp=sharing) [[Colab]](https://colab.research.google.com/drive/1_zMpUA2dHQu3eROEDdr4u5Vi5JQ9ZbA3?usp=sharing)
-- [2025-01-11] KSR 2025 AIMC 4기 [Slides] (TBA) [Colab] (TBA)
+- [2025-01-11] KSR 2025 AIMC 4기 [[Slides]](https://docs.google.com/presentation/d/1MMPhtaOjbA9Fvbk59DalDGL6BF4rsAv93Mv0KnUWyiw/edit?usp=sharing) [[Colab]](https://colab.research.google.com/drive/1HTQrn0LSMk_o4YybCwxqn_v1tVx6K-9t?usp=sharing)
 
 ## Contents
 - How to build a clinical domain Large Language Model (LLM)?
